@@ -453,6 +453,7 @@ ImageHeaderScrollView.childContextTypes = {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    background: '#7986CB',
   },
   header: {
     position: 'absolute',
